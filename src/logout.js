@@ -21,7 +21,4 @@ export async function logout() {
     updateNav();
     showCatalogView();
 
-
-
-
 }
